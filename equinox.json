@@ -1,5 +1,10 @@
 {
     "version": {
+        "2.666.TBA":{
+            "expired": false,
+            "base": "",
+            "split": ""
+        },
         "2.665.684": {
             "expired": false,
             "base":  "https://play.googleapis.com/download/by-token/download?token=AOTCm0T_65olusJOGnuZtY18zQSzva1hQeGpZ1CQsMM0_6VdkzSacZ5IkrMcZtSV8BXUlhRt6F7q4p5dxsqd7NocszaeoEo3e1OUM0e0Z1w31pwKSAe84bQorWvd3VchSnwRfj4JzjiPiEAIL3iOaqI9hwDXr4LXRKQQe4EovWZE2sh3Of7ix34ZowjXVcdm-U4NDl4GzyBnCNrI9U1INdUGodYtGfoQwzTIY6dBttWBKYRsJczJ8M4Uy9pen4nejh_GT7NtG2Kz228Xu3a-SQvLAMV11jXbQ0RqS33preokCDHCF6JY_QFC5bdwky2c0oy13eCAiQfn63h5UZ7f36jZkO4iR5YPmKSs9cvcRDC836XN4JSqZxeHSoqx-IZYDIY5jdlkW35aiXXl72V91ozojpUWeQ&cpn=eW48JsK8zUZOSeUp",
