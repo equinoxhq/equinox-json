@@ -1,12 +1,17 @@
 {
     "version": {
-        "2.666.609":{
+        "2.667.666": {
             "expired": false,
+            "base": "https://play.googleapis.com/download/by-token/download?token=AOTCm0TEMweg65-dtHK4zwYaZE5Wf9N1adKOh1w3Wr7EBR8ibvYEMWSJ-eGY3oTJJRCFKEPYiT3bjlScHNpr4sDHg5d89rtrEGdoJuCQEZBM97PEOsTevdfGDrI232IiH2tXDcPBzPeStmvtkla515F8GoddzPYZIyN8KnvBUQ4IvRMUgPjOMdvfCg2A7Ak5Fv-2wyS5ip3vDzp7jfk95UBb5sFdcG_zvEYWtDQc_DvUfwWZWhRnmfaav4zEoB-jAjoUcVYd951SPk0R7BezAq7f4P4GPWCSCNggfkni3z68KB3Hl31Pk-M34gfUprCUyRZ6vMkfAkz6ZnmFF7TlmqGS7kN88SdPaOTlKL2jBuO7YRJhlFfSUmzi-qdnjWcq6Sap-j8gEjlZaA1oFPzoqcbQjYdAXw&cpn=qlKCcPSQiK6kw2h3",
+            "split": "https://play.googleapis.com/download/by-token/download?token=AOTCm0S7Es7Qqw14TPRpfKCZhfLqZstEq7QvBzfTtUq5K6jg5YQSVHX5GefqFAiUlZae2_u-gFLfFoWnM9dznc22-eyvTOnJEK3YRLlkHYjn49ofpDLN8iPLAUzRn8btnS8M71gAzcjKTlXLuniKivyd_-dUB09Xvy-hpW3wHFcdAE7A-i4qzki9IZjYptValxnqPXkWjI3mU478s3qDTKeXW-SrD5w_tdIjgE_EEDZZvDfBGskV6Vft8dZg-ukkvm0S_35q0Z0-ulJDkDyRvz5wTNjS6QgUgY25OxhKXsSJ4icXuyIIy83lPZNIpGk3TI_cLVfpnaTEEBt2s5V9tyFwxzBZ1I74EV1wJ0MzPki9VWoA1EDd9v-qXYy7ZA2ot7jzptVWRA4NXqDpdr2ggzxlwHc5yt5sUzM8AodUon2Y4gui&cpn=2kA9uPlFcyNK5lRV"
+        },
+        "2.666.609": {
+            "expired": true,
             "base": "https://play.googleapis.com/download/by-token/download?token=AOTCm0RQmqA9-60LY6KtMQM6B_R71yJyzux6UHHcc5VGK1tzyqFslWhCRYbj7km05pnlyXNfneyIVTOPAiR8UfXzZL8eakOWq1PzJOW491hr5IfTHKY3WciLYjyW9MyE_jW5CRu6fkAkCxNjqdRWB3dOUIwFIFufYHR7nah59o8ExcEen5INQF__PiasIbAfkiAc_Inf3xd9HlEufS6_PsKl64yCKnWdD0NnwVsYgzSgNZtg4SVGBGY-R-41lxq1UCbbdyR918sXVwcGZ99luMZZxDunydz-P1gUs2foLIkVi2CNb-DhiucdjMu1JDT4y1rkur__Tx_LHBlNSPrzocnd7KwMaW7ya_-DQE8fLk_uo_9g_7mwTtK9y_EtOh_fVST_2OyyOdHe5397zLCLT-Js6dSCQg&cpn=TlLxs6HL7KWgIVCY",
             "split": "https://play.googleapis.com/download/by-token/download?token=AOTCm0R_Y3XJAjYu8CTrPTIP1sNZQUFUe5S5c9Ht3wd1MdgaiAlkd0PirdrcVrrPEkho-ppiPpA6SlhRyz3QOB5EchChSchU3Bd61QcHFDcn6KAK6zhZaJlSJ-kq29qKYK-6Fe-XLlDNu3J4wEpVzmDArVZ30hAy1k7TMsVdnn4LAw9BffoV1ZmTfEzK-bwDEsYZZdqRWOtSG5wufB5a01zJaOeXNM63o8OsTHdMGKqlQ-kW6XGlSuacXJoQ3kJ0W_DiU8BuQJsqckXGJ1Z7jzX5TfYGQB4arxASF2CWN3V5g8Jf8lGXFICKY0oG5DF49IXVWdBPx2vyZv_r0LqwY6KMjcqN59liwrTN_3ra2nSldGUMduMUMdP-YQ6Dp-7DFnAr04ukxg5VFwZOhekjm63Cuf2_Mi6LxBs7mg0WFia7VR_Q&cpn=auF6z3zOopE_XDeS"
         },
         "2.665.684": {
-            "expired": false,
+            "expired": true,
             "base":  "https://play.googleapis.com/download/by-token/download?token=AOTCm0T_65olusJOGnuZtY18zQSzva1hQeGpZ1CQsMM0_6VdkzSacZ5IkrMcZtSV8BXUlhRt6F7q4p5dxsqd7NocszaeoEo3e1OUM0e0Z1w31pwKSAe84bQorWvd3VchSnwRfj4JzjiPiEAIL3iOaqI9hwDXr4LXRKQQe4EovWZE2sh3Of7ix34ZowjXVcdm-U4NDl4GzyBnCNrI9U1INdUGodYtGfoQwzTIY6dBttWBKYRsJczJ8M4Uy9pen4nejh_GT7NtG2Kz228Xu3a-SQvLAMV11jXbQ0RqS33preokCDHCF6JY_QFC5bdwky2c0oy13eCAiQfn63h5UZ7f36jZkO4iR5YPmKSs9cvcRDC836XN4JSqZxeHSoqx-IZYDIY5jdlkW35aiXXl72V91ozojpUWeQ&cpn=eW48JsK8zUZOSeUp",
             "split": "https://play.googleapis.com/download/by-token/download?token=AOTCm0SoOYyA3_pHzOjQBcp2gw8YHmL-sRtDnba52ChcMSFQ1z2zL2adl6LIAiGpVsRj-ZJkzkja5LRdxPxFU4uGxTx93VjlxgXfhaj9JxDOG2r-lG-0ynxEDlfgDGamQmM73IDGHPXs2bLBZ88w7S6t1KR3Jep9R5KITDCKY37ysaKh-nCuQYzwRrsmadsZhZDNg5ccQwPoOgJmU1yOVkpp2AVj2-fPkKKwwKuy4-p1tCEA_YktwSH39H-Xpcfnk4TMagl65s74djnPMuU0jpc3Znj6lm0LAtv9yk4r_e8cxlK8pt2g0OpVKSdMHA5DA4P3tOzYPbuqPNI-_r5jbSfEv8BatLnWUoDziqAy_662XAavouxp6Kj3LZdV5ArZZyRPgfjmzFUYfi8uuleN_nusNdVh32YLQ4guHs2At_8hVsZ7&cpn=Z_XNR7ybLwfzBAJZ"
         },
