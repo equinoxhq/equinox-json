@@ -1,7 +1,12 @@
 {
     "version": {
-        "2.668.660": {
+        "2.669.664": {
             "expired": false,
+            "base": "https://play.googleapis.com/download/by-token/download?token=AOTCm0RFh6ifl9iyFq1iKQYW5DEfhMiuMKWV0EzXQzRxcAHRk7P4MAoN_vP8qjFCNtt9PZ5YWrfQuMrcNxIV2EVPGsXQR6d5J8BrPsMn_-JjThXv5fDVwyxgntfOk-xoqCFTJR-9MGLrsCtJuGvDEPV5_jrBkND1-VoE_zC0GXgDkCJhiKioJlEDh-htrL4ASGCHub50KUVkoO9U-115NHDszCxnbi5eFQ8A0juiEdDwxSzq6MEAT96x8lxdeX7kFpNM5MQZkaxEFVeZ5HHmHml6ungRRiUGx7btAFFpcIu-WNGnUINCINJe9gEZhUdOCjgGisVdmJdih1C08aGKiccr-iwBMuyBWHzrF1pZwkEVAM1rPwRTs2P9P0yhewQqFifajFxX8FgAqeUgPDM4j-GR1wS0UQ&cpn=u-Cb1rPv10sFx2i4",
+            "split": "https://play.googleapis.com/download/by-token/download?token=AOTCm0RL7Hjh75s2uirjyAo-Pjcuoo4UC-wc-9UaT4eoMQyOdENJ53V8YqrS3klxqX1gG6_GCpor-8bBY-ixOfoHlNwGr1R7zFkksmShwgMnD970w0KQj3F0Hh5bpeHXYa7eCoZF6gQvQ0aQajwYriIDq_n29KbKuNbGqvsLy6geuPpbm90YPQCRnfV2uOYz_4OmmUmcCI8gzoefJTyd9mdx1i6H89rPA1FrgFAh_4vSFS6YBd5H-tzhrQ2JKS1fm89dpgF7cWNDDNar4EPl_OejuKg8Zyg4Zb7Zjb53W8vpI_DZUUxfzpbET2-AE-DD35VzHjbqgqewrVLqVw5bwnMNE4IcRSyD0ONyPbk4YUe5Wb5FbDidqubo3jw0sOpSntWZXSCN70bWLXz1uBUVHk16fzrflrJ6M0VN6buwO6aPTzV4&cpn=pK1CZ1JAQmMVH9aT"
+        },
+        "2.668.660": {
+            "expired": true,
             "base": "https://play.googleapis.com/download/by-token/download?token=AOTCm0SHBWUkD6VgtbNTbonA32K6K9p0mkte8h30Yhpesexg4qpPFh0vW1-1b2h0L6FvQ8qmusvJvHT6MQgGMCCqBsl3gmTcY0ptPygPgJ4d6B3zDStQ0tbWlE5KgJUom8g_PWMaimT8RX2K4cnTuQzRrKTQDoVPKau7TNOxU36Dy4SD5zwSTbXZVDG4pZRt7h4Kd_Y-IFAtivdOb8Xt879Y-bHWuAjAYjRMH5kOBRQeOpXwrloXkx5qh8tW0GfLZQTNEpM_mVxFh04S97dJaf2mwQpuFeRaN-7GGL3U_yyC8mkoQAo_45iNLpciSqzqoiJ85h0k1JaBo4nOMNBu5AYkreaSLyF3FWcbdpY1koTevqx9FIXZgmOMWpqOuOXcrBHVTtw5wpb1wvaYrMMC6yW4O0jhQw&cpn=pjU_2gbP7VKDR4UT",
             "split": "https://play.googleapis.com/download/by-token/download?token=AOTCm0Qpbi4msSzpRRFOyNVMMtfLqqdMCiXYQOs8bkGr2JlXFMed0UqvGJC6Et5Rzzu3yubQCE1Y3fJGs1Hj8gwMQPaAa2MIud4-DMPcnDDK1qQMN1-Va_zFw2ozw0EHZ8EaUQWD6A3Q9Jnc2L0EIrlJpBA-0BjLEG6RjG3HjGZ9EDQvvtBRSnYFoNVfMPQBE-djRWOvmO8l6qRUeCNW_JTDDyLhu_xd4s7wZwbXV5057vVlFXHNIRPK7xmTDDM70ethLuFZGS7MsnHYImqa7H8N3yXyRISU6GwpUVaSwvXDh78QnFfP7aG0MaWMdTqPpgYipOEoyStO8B8LFF5uG60kB-3yJ-i1Y7KMD9XScmQbyAijiLSL1epc2Dxb02xuagKyoypf1h4TJkyGPeoumK9AGj0OmV2rogW_NM04jPAJGFL2&cpn=A3a8S84OiD2nVlNc"
         },
