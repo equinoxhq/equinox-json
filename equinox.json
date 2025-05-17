@@ -1,7 +1,12 @@
 {
     "version": {
+	"2.673.710": {
+	  "expired": false,
+	  "base": "https://play.googleapis.com/download/by-token/download?token=AOTCm0SIKvH3YUYxgGuASyi9-RcFhw7cXTVF3L3kUKLZHy1vZnEhaulnLVDPLCwEICtGjkeHOCuGDVYfIHR5bgmNAIoh4GY2Uuva6scMqqgUyXQsmCObLqNadkG129MdGfcU1b4XLXVL__d4zGv5OO6-uvnPkjPnptWwP9yUs8LSBFJZJu7U_vPKsL1x58wSToYUTbOg5cE29jBvClN_o7HJjDfMUXSQUlz3H1OwgTh1DQKLBbmXIZ_MJwZ2S9IImLyVvXKbT0z85ZY7eCKkCtPZbZWppl4MguZvQuh36-hZHRllUARypQyO5lzi5DbLu32xhQBRsfFckXVn3uSipA1seAgRX2qh8Ir8ZhoES80orSLBMEQvZOzYX8bgKXwYgu8mYdlXuDUO7rpF4RIY2fVX61l-ww&cpn=QKqewJzPVETPrQlO",
+	  "split": "https://play.googleapis.com/download/by-token/download?token=AOTCm0Qp3_dTmFE2PbZ6HoH_QW6kh_sSdbBQVBInOx3h0OpE6LNSLcox5azZcbhhPLfi1RDTpTSl3sE6ETb3GHisI8IS2kwQXoPO0buyXtm58bu2mYtmY-F-6hbI1u3kSe3_aQ54d3uGeX7nkIjPqmGEM6hWmORAXwGk-MCzs3yXvUdaL_cI62e9dur5PMY9ZJsdDLZKZ-hgPXiw2-ABLVuiURKeUc_QukxZ5hHsHECNVF0fbcP7QbOHGr4exTFC_E-wyo45fsAy1AhVlDuaZ2SIdHdl238ikhDrgUePZO0zR6Mmh033Aj_1OOZm2SlPigyqYa1jC6mhsY4IqTwIXxKSJZa92aom524mldLkgNLzlXFzZMYpG2tGTXK7_Uxs74jDKS6V-XeFUzNtjuxYAZGqU7CSXtbJgxNEkdh5VqUySBWQ&cpn=5zyfeFwVSdHOMPZr"
+	},
         "2.672.706": {
-            "expired": false,
+            "expired": true,
             "base": "https://play.googleapis.com/download/by-token/download?token=AOTCm0RNOIKRs9qA2pRy-YPcQCFavOth1FXHLLxcuGMB63zl3HRBzH1PW1RIiQ1gaeit0hqhc0fBK5LDhAGrNhyeDKk26UoqfLGAbrwFQhR_7mxDwuHkabd57rR85yXevu3js_NvS-B_PbfTcw4ocmO1FDrGV_3lLvzMKiaOdB-M3mWrdfocD4gfgrptUrFg0FGmg-8o2Oy22SaDW7wj_U8IWTGLcwcXrgyoN7MApPgjgJYFjbS9c82erGyvbizKWtboc-cvPVb_L1Q7l29KJjE1SKxek7OO_NDuVJzL0Qhip4qiboXiImHn3ffvWYxknoXHMkQWVoaUR_r7ZKngM4kxccl9MIduRz5u57_HxqKbYJPLD3N1UDaPl2LrL8IpwjIGcn_tDXRDhVulW9-U5om77PkHLA&cpn=y36elcNbA7AxIAGg",
             "split": "https://play.googleapis.com/download/by-token/download?token=AOTCm0R_hBMFlDbz4yWe0Vs5VVfGU7J0XEFl_w3HBnpawZS2qFf11PZafIDQJetK_1vkF2USFwY7BwZwpYHU1-Xg_lJoQZnWOBDUH14ocCoKTJ2oF9HwOwHlCkqfUBvF-vAhfROTq_Yz1UDP1FB-55L_jMSuqpD4yX6VLsBJ-I5_5Y4DVQfVFrBIP4r-421X2-as7aBV8q84_xuHM4w8v8aOZD1huh5oFsvoNBmTmTrOTf9fIAvfqvmWdq1QRmA3-69tklKL0ynvxiaELr8VLirEV0HOGu5lNMVJ6fIJ73sdUCI-WpSpOAz8bMCC2R0jSuILO9d83fYBR7Ddro5AM0-jS8fDnOqQWnHBfryUJ8qxpxZ4ntLTS86YOq3pFR_xHu7_S3RGpau9ae1hlMPM76Q4on5fORUVuEIuo8Dg9V8YAgV4&cpn=E3EdxTDxHxEr9lTv"
         },
